@@ -1,0 +1,6 @@
+[package]
+name = "ternary-signaling"
+version = "0.1.0"
+edition = "2021"
+description = "Signaling games on ternary {-1,0,+1} channels — honest signals, costly signaling, separating equilibria"
+license = "MIT"
